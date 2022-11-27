@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//this is a comment 
+
 int main () {
 	int num, num2, n;
 	printf("hi this is a simple code!\n");
